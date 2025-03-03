@@ -280,7 +280,7 @@ st.markdown(
         font-family: monospace;
         position: fixed;
         bottom: 0;
-        right: 0;
+        left: 0;
         width: auto;
         text-align: center;
         color: #888;
@@ -288,8 +288,8 @@ st.markdown(
         background-color: #ffffff;
         z-index: 0;
         border: none;
-        border-left: 1px solid #f1f1f1;
-        border-top-left-radius: 10px;
+        border-right: 1px solid #f1f1f1;
+        border-top-right-radius: 10px;
     }
     
     .pre a {
