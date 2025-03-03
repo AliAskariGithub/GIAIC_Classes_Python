@@ -281,7 +281,7 @@ st.markdown(
         position: fixed;
         bottom: 0;
         left: 0;
-        width: auto;
+        width: max-content;
         text-align: center;
         color: #888;
         padding: 10px;
