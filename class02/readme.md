@@ -3,7 +3,7 @@
 ## 📌 Today's Class Code
 
 The code for today's class can be accessed on Google Colab:
-🔗 [Class Notebook](https://colab.research.google.com/drive/1HpWle81S_WVxeUur97VbmNnxETDXzAhq#scrollTo=5dqrFc3glW_s)
+🔗 [Class Notebook]([https://colab.research.google.com/drive/1HpWle81S_WVxeUur97VbmNnxETDXzAhq#scrollTo=5dqrFc3glW_s](https://colab.research.google.com/drive/1HpWle81S_WVxeUur97VbmNnxETDXzAhq?usp=sharing))
 
 ---
 
