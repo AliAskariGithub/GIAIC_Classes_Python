@@ -1,0 +1,11 @@
+    print("\n -------------------------------- This is the Liftoff Program --------------------------------")
+
+    def main():
+        for i in range(10):
+            print(10 - i)
+        print("Liftoff!")
+
+    if __name__ == '__main__':
+        main()
+
+    print("\n -------------------------------- Thank you for using program --------------------------------")
